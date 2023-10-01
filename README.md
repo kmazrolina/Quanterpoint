@@ -1,4 +1,5 @@
 # Quanterpoint
+![72665ae1-a495-4a5f-93ea-e51345b7099a](https://github.com/kmazrolina/Quanterpoint/assets/121491288/28523215-be33-4746-88c5-15a03def1251)
 
 HachYeah2023 project. Discovering the sound of quantum computers.
 
