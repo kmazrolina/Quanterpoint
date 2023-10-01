@@ -32,8 +32,41 @@ https://hackyeah.pl/wp-content/uploads/2023/09/DETAILS_QuantumArt_IBM_HackYeah20
 
 ## About this project
 
-First of all, we would like to point out that we've performed the application which is developed over the quantum paradigmi. We used a 1-qubit central processing unit which generated 12 complex numbers and then we used a discrete dynamical system describing the Julia set/ Julia fractal. Those iterations described via Julia fractal were highly important for generating music tones. 
+# Quantum Harmony: Exploring the Quantum Soundscape
 
-Our solutions are highly innovative because we've been using a special dynamical system that generates random numbers and it's described by Julia set. Secondly, we performed highly detailed applications over a quantum paradigm.
+Our work brigns the realms of quantum physics and music composition closer together in a symphony of innovation and creativity. This project draws inspiration from the audacious composers of the past who sought to infuse their music with the elegance of physics and mathematics
+
+Quantum Harmony is an exploration of the intersection between quantum computing and music composition. It combines cutting-edge technology with artistic creativity to produce unique minimalist music inspired by the principles of quantum physics.
+
+## Project Stages
+
+### 1. Quantum Circuit Creation
+
+We start by crafting 12 distinct quantum circuits using Qiskit, a leading quantum computing framework developed by IBM. Each quantum circuit represents a unique musical element in our composition.
+
+### 2. Real Quantum Execution
+
+Taking a bold step into the quantum world, we execute these 12 quantum circuits 1024 times on a real quantum computer. Each execution provides us with measurements of quantum bits (qubits) as either 0 or 1. This quantum data forms the basis of our musical creation.
+
+### 3. Base of Melody
+
+From the quantum data harvested, we derive "the base of melody." By calculating the percentage of times each qubit was measured as 1 and how many times it was measured as 0, we lay the groundwork for our musical composition.
+
+### 4. Frequency Generation
+
+Using the base of melody as our guide, we apply a julia fractal algorithm to generate a series of 8 numbers. These numbers represent musical notes or frequencies and serve as the core of our composition.
+
+### 5. Music Composition
+
+We use a guitar string simulation to transform the generated frequencies into an 8-note melody. This melody resonates with the ethereal essence of quantum computation and forms the core structure of our musical composition.
+
+### 6. Minimalist Music Inspiration
+
+Drawing inspiration from the minimalist music compositions of acclaimed artists like Steve Reich and Philip Glass, we introduce simple counterpoint melodies. These counterpoint melodies complement the quantum-generated melody, creating a dynamic and captivating soundscape.
+
+### 7. User Interface and Composition
+
+Our user-friendly interface empowers users to engage with the quantum world of music composition. Users can select samples, experiment with different combinations,
+
 
 
