@@ -36,7 +36,7 @@ https://hackyeah.pl/wp-content/uploads/2023/09/DETAILS_QuantumArt_IBM_HackYeah20
 
 Our work brigns the realms of quantum physics and music composition closer together in a symphony of innovation and creativity. This project draws inspiration from the audacious composers of the past who sought to infuse their music with the elegance of physics and mathematics
 
-Quantum Harmony is an exploration of the intersection between quantum computing and music composition. It combines cutting-edge technology with artistic creativity to produce unique minimalist music inspired by the principles of quantum physics.
+Quantum Harmony is an exploration of the intersection between quantum computing and music composition. It combines cutting-edge technology with artistic creativity to produce unique minimalist music inspired by the principles of quantum computing.
 
 ## Project Stages
 
