@@ -32,7 +32,7 @@ https://hackyeah.pl/wp-content/uploads/2023/09/DETAILS_QuantumArt_IBM_HackYeah20
 
 ## About this project
 
-# Quantum Harmony: Exploring the Quantum Soundscape
+# Exploring the Quantum Soundscape
 
 Our work brigns the realms of quantum physics and music composition closer together in a symphony of innovation and creativity. This project draws inspiration from the audacious composers of the past who sought to infuse their music with the elegance of physics and mathematics
 
