@@ -6,4 +6,5 @@ https://convex-reflect-125503.framer.app/project
 
 
 Running instructions:
-1. quant_re
+1. quanterpoint_real_q_comp.ipynb
+2. 
