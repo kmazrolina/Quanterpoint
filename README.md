@@ -11,7 +11,8 @@ Contents:
 Link to UI design:
 [https://convex-reflect-125503.framer.app/project](https://convex-reflect-125503.framer.app/quansition)
 
-Link to working UI:
+Link to Quansition web app (working UI):
+[https://quansition.netlify.app/](https://quansition.netlify.app/)
 
 
 Link to the problem:
