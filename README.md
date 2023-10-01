@@ -25,6 +25,7 @@ Related projects:
 3. Spektralizm https://pl.m.wikipedia.org/wiki/Spektralizm?fbclid=IwAR3jBrZB9_wgRZTqPpPqWanUZNvqfWb-TiN9Z5ZrD3TnVdZQdtYmZFg2lTE
 
 About that project
+
 First of all, we would like to point out that we've performed the application which is developed over the quantum paradigm. We used a 1-qubit central processing unit which generated 12 complex numbers and then we used a discrete dynamical system describing the Julia set/ Julia fractal. Those iterations described via Julia fractal were highly important for generating music tones. 
 
 Our solutions are highly innovative because we've been using a special dynamical system that generates random numbers and it's described by Julia set. Secondly, we performed highly detailed applications over a quantum paradigm.
