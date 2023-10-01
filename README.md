@@ -8,8 +8,11 @@ Contents:
 4. related projects
 5. About that project
 
-Link to UI (draft):
-https://convex-reflect-125503.framer.app/project
+Link to UI design:
+[https://convex-reflect-125503.framer.app/project](https://convex-reflect-125503.framer.app/quansition)
+
+Link to working UI:
+
 
 Link to the problem:
 https://hackyeah.pl/wp-content/uploads/2023/09/DETAILS_QuantumArt_IBM_HackYeah2023.pdf
